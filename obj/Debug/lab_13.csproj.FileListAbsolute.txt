@@ -1,0 +1,6 @@
+C:\Users\Юрий\Desktop\projects\lab_13\lab_13\bin\Debug\lab_13.exe.config
+C:\Users\Юрий\Desktop\projects\lab_13\lab_13\obj\Debug\lab_13.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Desktop\projects\lab_13\lab_13\bin\Debug\lab_13.exe
+C:\Users\Юрий\Desktop\projects\lab_13\lab_13\bin\Debug\lab_13.pdb
+C:\Users\Юрий\Desktop\projects\lab_13\lab_13\obj\Debug\lab_13.exe
+C:\Users\Юрий\Desktop\projects\lab_13\lab_13\obj\Debug\lab_13.pdb
